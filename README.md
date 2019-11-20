@@ -1,4 +1,4 @@
-# Katalon Plugin for Jenkins
+# Katalon DevOps Plugin for Jenkins
 
 Katalon Plugin for Jenkins helps execute Katalon Studio in Jenkins easily.
 Katalon Studio will be downloaded and deployed automatically.
